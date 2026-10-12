@@ -1,0 +1,37 @@
+file_prefix,conference,number,city,colors,garment,garment_hex,fill_hex,outline_hex
+AFC-01_buffalo_white,AFC,01,BUFFALO,"Royal & Red",White,#F4F2EC,#1F4FB5,#D22B2B
+AFC-02_miami_white,AFC,02,MIAMI,"Aqua & Orange",White,#F4F2EC,#008E97,#FC4C02
+AFC-03_new-england_navy,AFC,03,NEW ENGLAND,"Navy, Red & White",Navy,#232A3B,#F4F1EA,#C60C30
+AFC-04_new-york_emerald,AFC,04,NEW YORK,"Green & White",Emerald,#1F5C45,#F4F1EA,#1E1E20
+AFC-05_baltimore_black,AFC,05,BALTIMORE,"Purple & Gold",Black,#1E1E20,#7A5CC8,#D0B240
+AFC-06_cincinnati_burnt-orange,AFC,06,CINCINNATI,"Orange & Black",Burnt Orange,#C8582C,#1E1E20,#F4F1EA
+AFC-07_cleveland_espresso,AFC,07,CLEVELAND,"Brown & Orange",Espresso,#3E2B24,#FF3C00,#F4F1EA
+AFC-08_pittsburgh_black,AFC,08,PITTSBURGH,"Black & Gold",Black,#1E1E20,#FFB612,#F4F1EA
+AFC-09_houston_grey,AFC,09,HOUSTON,"Navy & Red",Grey,#8F9294,#03202F,#C8102E
+AFC-10_indianapolis_chambray,AFC,10,INDIANAPOLIS,"Royal & White",Chambray,#A9BCD0,#0B3D91,#F4F1EA
+AFC-11_jacksonville_ivory,AFC,11,JACKSONVILLE,"Teal & Black",Ivory,#EDE6D6,#0E8C8F,#1E1E20
+AFC-12_nashville_white,AFC,12,NASHVILLE,"Navy & Sky Blue",White,#F4F2EC,#4B92DB,#0C2340
+AFC-13_denver_true-navy,AFC,13,DENVER,"Orange & Navy",True Navy,#2A3550,#FB4F14,#F4F1EA
+AFC-14_kansas-city_red,AFC,14,KANSAS CITY,"Red & Gold",Red,#B3262E,#F4F1EA,#FFB81C
+AFC-15_las-vegas_black,AFC,15,LAS VEGAS,"Silver & Black",Black,#1E1E20,#A5ACAF,#F4F1EA
+AFC-16_los-angeles_flo-blue,AFC,16,LOS ANGELES,"Powder Blue & Gold",Flo Blue,#5C7FC8,#FFC20E,#F4F1EA
+NFC-01_dallas_true-navy,NFC,01,DALLAS,"Navy & Silver",True Navy,#2A3550,#C4CBD2,#F4F1EA
+NFC-02_new-york_white,NFC,02,NEW YORK,"Blue & Red",White,#F4F2EC,#0B2265,#C8102E
+NFC-03_philadelphia_pepper,NFC,03,PHILADELPHIA,"Midnight Green & Silver",Pepper,#4E4D4A,#2E8B8B,#F4F1EA
+NFC-04_washington_wine,NFC,04,WASHINGTON,"Burgundy & Gold",Wine,#5A2430,#F2B637,#F4F1EA
+NFC-05_chicago_navy,NFC,05,CHICAGO,"Navy & Orange",Navy,#232A3B,#E05A1C,#F4F1EA
+NFC-06_detroit_royal-caribe,NFC,06,DETROIT,"Blue & Silver",Royal Caribe,#2B6FA8,#C4CBD2,#1E1E20
+NFC-07_green-bay_blue-spruce,NFC,07,GREEN BAY,"Green & Gold",Blue Spruce,#2F4A43,#FFB81C,#F4F1EA
+NFC-08_minneapolis_grape,NFC,08,MINNEAPOLIS,"Purple & Gold",Grape,#4B3A5E,#FDB927,#F4F1EA
+NFC-09_atlanta_red,NFC,09,ATLANTA,"Red & Black",Red,#B3262E,#1E1E20,#F4F1EA
+NFC-10_charlotte_black,NFC,10,CHARLOTTE,"Carolina Blue & Black",Black,#1E1E20,#0085CA,#F4F1EA
+NFC-11_new-orleans_khaki,NFC,11,NEW ORLEANS,"Black & Gold",Khaki,#B9A88A,#1E1E20,#F4F1EA
+NFC-12_tampa-bay_pepper,NFC,12,TAMPA BAY,"Red & Pewter",Pepper,#4E4D4A,#D50A0A,#F4F1EA
+NFC-13_phoenix_crimson,NFC,13,PHOENIX,"Cardinal & White",Crimson,#8C2333,#F4F1EA,#1E1E20
+NFC-14_los-angeles_true-navy,NFC,14,LOS ANGELES,"Royal & Gold",True Navy,#2A3550,#FFD100,#F4F1EA
+NFC-15_san-francisco_black,NFC,15,SAN FRANCISCO,"Red & Gold",Black,#1E1E20,#C8102E,#B3995D
+NFC-16_seattle_navy,NFC,16,SEATTLE,"Navy & Action Green",Navy,#232A3B,#69BE28,#F4F1EA
+FAITHFUL-01_faithful_pepper,FAITHFUL,01,FAITHFUL,"OG Green & Cornflower",Pepper,#4B4B50,#3DBE5C,#6E97D9
+FAITHFUL-02_faithful_black,FAITHFUL,02,FAITHFUL,"Green & Cornflower",Black,#1E1E20,#3DBE5C,#6E97D9
+FAITHFUL-03_faithful_white,FAITHFUL,03,FAITHFUL,"Green & Cornflower",White,#F4F2EC,#3DBE5C,#4F78C4
+FAITHFUL-04_faithful_ivory,FAITHFUL,04,FAITHFUL,"Royal & Green",Ivory,#EDE6D6,#2F5BD3,#3DBE5C
