@@ -2,7 +2,7 @@ file_prefix,conference,number,city,colors,garment,garment_hex,fill_hex,outline_h
 AFC-01_buffalo_white,AFC,01,BUFFALO,"Royal & Red",White,#F4F2EC,#1F4FB5,#D22B2B
 AFC-02_miami_white,AFC,02,MIAMI,"Aqua & Orange",White,#F4F2EC,#008E97,#FC4C02
 AFC-03_new-england_navy,AFC,03,NEW ENGLAND,"Navy, Red & White",Navy,#232A3B,#F4F1EA,#C60C30
-AFC-04_new-york_emerald,AFC,04,NEW YORK,"Green & White",Emerald,#1F5C45,#F4F1EA,#1E1E20
+AFC-04_new-york_white,AFC,04,NEW YORK,"Green & White",White,#F4F2EC,#125740,#1E1E20
 AFC-05_baltimore_black,AFC,05,BALTIMORE,"Purple & Gold",Black,#1E1E20,#7A5CC8,#D0B240
 AFC-06_cincinnati_burnt-orange,AFC,06,CINCINNATI,"Orange & Black",Burnt Orange,#C8582C,#1E1E20,#F4F1EA
 AFC-07_cleveland_espresso,AFC,07,CLEVELAND,"Brown & Orange",Espresso,#3E2B24,#FF3C00,#F4F1EA
